@@ -38,9 +38,10 @@ It allows users to enter Sudoku puzzles and instantly solves them using a **back
 
 ---
 
-## 📸 Demo (Optional)
+## 📸 Demo 
 
-*(Add a screenshot or GIF of your app here)*
+<img width="695" height="745" alt="image" src="https://github.com/user-attachments/assets/4f1fd877-50d4-4673-b54f-b1ed1288e016" />
+
 
 ---
 
@@ -55,3 +56,4 @@ It allows users to enter Sudoku puzzles and instantly solves them using a **back
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to use and modify it.
+
